@@ -1,0 +1,59 @@
+body {
+    background-color: darkred;
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    margin: 15%;
+    padding: 5%;
+}
+
+.title {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3rem;
+    padding: 0px;
+    margin: 0px;
+}
+
+.queue {
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    font-size: 25px;
+    font-weight: lighter;
+    margin-bottom: 5%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.yes {
+    color: black;
+    font-variant: small-caps;
+    font-size: 20px;
+    margin: 5%;
+    padding: 1rem;
+    
+}
+
+.yes:hover {
+    color: white;
+    background-color: darkred;
+    border-radius: 12%;
+}
+
+.no {
+    color: black;
+    font-variant: small-caps;
+    font-size: 20px;
+    padding: 1rem;
+    margin: 5%;
+}
+
+.no:hover {
+    color: white;
+    background-color: darkred;
+    border-radius: 12%;
+}
